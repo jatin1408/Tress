@@ -7,7 +7,7 @@ class Solution {
             this.node=node;
             this.level=level;
         }
-        /**
+       
  
   public class TreeNode {
       int val;
